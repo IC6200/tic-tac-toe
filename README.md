@@ -18,6 +18,14 @@ A Tic-Tac-Toe AI implementation using the Minimax algorithm. The AI plays optima
 - `min_value(board, player)` - Minimax function that minimizes the maximum value
 - `max_value(board, player)` - Minimax function that maximizes the minimum value
 
+## Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Testing
 
 Run all tests:
